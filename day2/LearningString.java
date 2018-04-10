@@ -13,11 +13,12 @@ public class LearningString
 		boolean c = a.equals(b);
 		System.out.println(c);
 		
-		String d = "Champions League Liverpool";
-		String e = "Liverpool";
+		String d = "Champions League";
+		String e = "United";
 		int f = d.indexOf(e);
 		System.out.println(f);
 		// If int f = -1, e is NOT a substring of d
-		// else e is a substring of d
+		// Else, e is a substring of d
+		// Means United is not in Champions League
 	}
 }
