@@ -16,6 +16,6 @@ public class LearningVariable
 		System.out.println("d = " + d);
 		System.out.println("e = " + e);
 		
-		System.out.println("a+b = " + (a*b));
+		System.out.println("a+b = " + (a+b));
 	}
 }
