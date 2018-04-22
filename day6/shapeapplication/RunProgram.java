@@ -139,6 +139,7 @@ public class RunProgram
 			}
 			
 		}
+		scanner.close();
 	}
 }
 
